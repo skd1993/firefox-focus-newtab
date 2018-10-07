@@ -1,5 +1,7 @@
 ##Firefox - Focus New Tab
 
+**Update:** Content has been slightly changed to support FF 62
+
 A simple CSS to change the layout of the Firefox new tab page to look more like the Firefox Focus (Android).
 
 Tweaks to the background colors, text colors, content borders and shadows.

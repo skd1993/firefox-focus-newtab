@@ -9,7 +9,7 @@ Tweaks to the background colors, text colors, content borders and shadows.
 **Installation:**
 
 * Go to Firefox (PC)
-* Type ```user:profiles``` in the URL bar, hit enter
+* Type ```about:profiles``` in the URL bar, hit enter
 * Click on ```Open Folder``` of the Root directory of the default profile shown there
 * In the explorer that opens, go to ```chrome``` folder
 * Copy this ```userContent.css``` file there
